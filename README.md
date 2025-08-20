@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hey, I'm Yash!  
 
-<!--
-**Yashodev21/Yashodev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Web Developer** | 💻 AI/ML Enthusiast | 📊 Stock Market Learner  
 
-Here are some ideas to get you started:
+I love building **scalable web apps** and experimenting with **AI + Data** to solve real-world problems.  
+Currently exploring **MERN stack + Flask with ML models**, and always excited to learn new technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Tech Stack
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+
+**Database & Cloud:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Machine Learning / Tools:**  
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+
+---
+
+## 🌟 Featured Projects
+- 🛒 **Grocery Shop App** – Full-stack project for managing online groceries.  
+- 📈 **Stock Price Prediction (ML)** – Linear Regression & LSTM models with Flask integration.  
+- 😎 **Face Attendance System** – OpenCV + Python GUI + face recognition.  
+- 📊 **Stock Sentiment Dashboard** – AI + Web Dashboard for analyzing market sentiment.  
+
+➡️ Check more in my [Repositories](https://github.com/YOUR-USERNAME?tab=repositories)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="langs" height="180"/>
+</p>
+
+---
+
+## ✨ About Me
+- 🔭 Currently working on **Full-Stack + AI integration projects**  
+- 🌱 Learning **Advanced ML & Deployment**  
+- 🤝 Open to collaborate on **Web + AI products**  
+- ⚡ Fun fact: *I debug more than I code — but that’s the fun part!*  
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR-PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+
