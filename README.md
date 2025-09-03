@@ -40,9 +40,7 @@ Currently exploring **MERN stack + Flask with ML models**, and always excited to
 - 😎 **Face Attendance System** – OpenCV + Python GUI + face recognition.  
 - 📊 **Stock Sentiment Dashboard** – AI + Web Dashboard for analyzing market sentiment.  
 
-➡️ Check more in my [Repositories](https://github.com/YOUR-USERNAME?tab=repositories)  
-
----
+➡️ Check more in my [Repositories]([https://github.com/YOUR-USERNAME?tab=repositories](https://github.com/Yashodev21?tab=repositories))  
 
 ---
 
@@ -55,7 +53,6 @@ Currently exploring **MERN stack + Flask with ML models**, and always excited to
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yashodev-rout-4421a5294)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR-PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 
