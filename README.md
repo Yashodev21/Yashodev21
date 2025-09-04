@@ -1,4 +1,13 @@
-# 👋 Hey, I'm Yash!  
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yashodev%20Rout&fontSize=50&animation=fadeIn&fontAlignY=40&desc=🚀%20MERN%20Developer%20|%20AI/ML%20Enthusiast%20🤖&descAlignY=60" />
+</p>
+
+---
+
+# 👋 Hey there, I’m Yash!  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+%7C+MERN+Developer;🤖+AI%2FML+Explorer;☕+Java+%26+Python+Fan;🎮+Gaming+Addict+%7C+🎵+Music+Soul)](https://git.io/typing-svg)
 
 🚀 **Full-Stack Web Developer** | 💻 AI/ML Enthusiast | 📊 Stock Market Learner  
 
@@ -53,6 +62,8 @@ Currently exploring **MERN stack + Flask with ML models**, and always excited to
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yashodev-rout-4421a5294)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashodev-rout-4421a5294)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR-PORTFOLIO)
+
+
 
