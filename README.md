@@ -41,8 +41,14 @@ Currently exploring **MERN stack + Flask with ML models**, and always excited to
 
 ---
 
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Yashodev21)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yashodev21&cache_seconds=86400)
+
+---
+
 
 
 
