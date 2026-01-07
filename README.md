@@ -42,24 +42,8 @@ Currently exploring **MERN stack + Flask with ML models**, and always excited to
 ---
 
 
-## 📊 GitHub Analytics
+![GitHub Streak](https://streak-stats.demolab.com?user=Yashodev21)
 
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashodev21&show_icons=true&include_all_commits=true&theme=radical)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashodev21&layout=compact&theme=radical)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Yashodev21&theme=radical)
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=Yashodev21&style=flat&color=blue)
-
-<!-- Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashodev21&theme=react-dark)
-
----
 
 
 ## 🔗 Connect with Me
