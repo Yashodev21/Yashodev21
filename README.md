@@ -41,39 +41,26 @@ Currently exploring **MERN stack + Flask with ML models**, and always excited to
 
 ---
 
-## 📊 GitHub Analytics
----
----
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yashodev21&show_icons=true&include_all_commits=true" />
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashodev21&show_icons=true&include_all_commits=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashodev21&layout=compact" />
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashodev21&layout=compact&theme=radical)
 
-<img src="https://streak-stats.demolab.com?user=Yashodev21" />
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Yashodev21&theme=radical)
 
-<img src="https://komarev.com/ghpvc/?username=Yashodev21&label=Profile%20views&style=flat" />
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=Yashodev21&style=flat&color=blue)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashodev21" />
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashodev21&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashodev21&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashodev21)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Yashodev21&label=Profile%20views)
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashodev21&theme=react-dark)
 
 ---
 
-
-
----
 
 ## 🔗 Connect with Me
 <p align="center">
